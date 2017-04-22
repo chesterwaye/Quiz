@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title">Network Layer Quiz</string>
+    <string name="q1">1. Which of the following Ethernet standards defines Gigabit Ethernet over UTO cabling?</string>
+    <string name="q1_a">10GBASE-T</string>
+    <string name="q1_b">100BASE-T</string>
+    <string name="q1_c">1000BASE-T</string>
+    <string name="q1_d">None</string>
+    <string name="q2">2. Which of the following is true about the Ethernet FCS field?</string>
+    <string name="q2_a">Ethernet uses FCS for error recovery.</string>
+    <string name="q2_b">It is 2 bytes long</string>
+    <string name="q2_c">It resides in the Ethernet trailer, not the Ethernet header.</string>
+    <string name="q2_d">It is used for encryption</string>
+    <string name="q3">3. Which of the following terms describe Ehernet addresses that can be used to send one frame that is delivered to multiple devices on LAN?</string>
+    <string name="q3_a">Burned-in address</string>
+    <string name="q3_b">Unicast address</string>
+    <string name="q3_c">Broadcast address</string>
+    <string name="q3_d">Multicast address</string>
+    <string name="q4">4. A company implements a TCP?IPnetwork, with PC1 sitting on an Ethernet LAN. Which of the following protocols and features requires PC1 to learn information from some other server device?</string>
+    <string name="q4_answer">Answer</string>
+    <string name= "Button">Grade</string>
+</resources>
+
